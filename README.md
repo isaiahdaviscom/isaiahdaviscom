@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...
+- [My Portfolio](https://github.com/isaiahdaviscom/MyPortfolio)
+- [Code Snippets](https://gist.github.com/isaiahdaviscom)
 <!--
 
 https://www.markdownguide.org/basic-syntax/
