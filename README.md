@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on ...
 - [My Portfolio](https://github.com/isaiahdaviscom/MyPortfolio)
 - [Code Snippets](https://gist.github.com/isaiahdaviscom)
+
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
 <!--
 
