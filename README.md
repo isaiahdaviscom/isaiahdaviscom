@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on ...
 
-|Repository                                                                     |Project Milesones                                                              |
+|Repository                                                                     |Project Milestones                                                              |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 |[My Portfolio](https://github.com/isaiahdaviscom/myportfolio)                  |[Project Timeline](https://github.com/users/isaiahdaviscom/projects/2)         |
 
