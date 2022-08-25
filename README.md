@@ -1,3 +1,4 @@
+[![1500x500](https://user-images.githubusercontent.com/28223640/186547908-0a6427f4-4c76-4821-8d64-be8f8241546e.jpg)](https://isaiahdavis.com/)
 ### Hi there 👋
 🔭 I’m currently working on ...
 
@@ -13,7 +14,8 @@ https://www.markdownguide.org/basic-syntax/
 
 **isaiahdaviscom/isaiahdaviscom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get 
+you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
