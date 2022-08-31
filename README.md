@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning ...
 
-<a href="http://example.com/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%20%7C%20Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fisaiahdaviscom&logo=leetcode&logoColor=yellow" alt="LeetCode Badge 0% Solved Problems as of August 31 2022"></a>
+<a href="https://leetcode.com/isaiahdaviscom/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%20%7C%20Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fisaiahdaviscom&logo=leetcode&logoColor=yellow" alt="LeetCode Badge 0% Solved Problems as of August 31 2022"></a>
 
 <!--
 
