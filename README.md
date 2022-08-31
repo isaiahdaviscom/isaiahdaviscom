@@ -6,7 +6,8 @@
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 |[My Portfolio](https://github.com/isaiahdaviscom/myportfolio)                  |[Project Timeline](https://github.com/users/isaiahdaviscom/projects/2)         |
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
+
 [![LeetCode user isaiahdaviscom](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%20%7C%20Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fisaiahdaviscom&logo=leetcode&logoColor=yellow)](https://leetcode.com/isaiahdaviscom/)
 
 <!--
